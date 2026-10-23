@@ -1,0 +1,12 @@
+# Compiled Go executables and test output
+*.exe
+*.test
+*.out
+
+# Local editor files
+.idea/
+.vscode/
+
+# Optional demo recorder's Python cache
+__pycache__/
+*.pyc
